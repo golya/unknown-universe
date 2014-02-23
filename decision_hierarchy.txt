@@ -1,0 +1,19 @@
+For avoid the hinder factors and facilitate the authenticity of characters or places we should create some decision hierarchy. This is the first pattern of the decision history, later it should be change and extend based on the real situation.
+
+DH for main concept:
+- Ádám Gólya
+- Tülin Tolay
+- Other members
+
+DH for character Nemere:
+- Ádám Gólya
+- Other members
+
+DH for character Aysun:
+- Tülin Tolay
+- Other members
+
+DH for hungarian places or acts:
+- Ádám Gólya
+- Franciska Kővári
+- Lilla Hidegkuti
